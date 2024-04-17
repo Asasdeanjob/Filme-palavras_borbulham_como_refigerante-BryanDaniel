@@ -1,0 +1,26 @@
+body {
+  background-color: #4f4f4f;
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+img {
+  padding: 150px;
+  margin-top: -150px;
+  margin-bottom: -120px;
+}
+
+a {
+  color: lightblue;
+  
+}
